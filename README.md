@@ -19,12 +19,6 @@ A user posts a product on social media (Instagram, Facebook, Twitter, etc.).
 The system extracts product details (name, price, description, images).
 Data is structured and formatted according to e-commerce platform requirements.
 The product is automatically listed on Amazon, Flipkart, or other configured marketplaces.
-
-## 📌 Installation & Setup
-Clone the repository:
-bash
-git clone https://github.com/yourusername/content2cart.git
-cd content2cart
  
 ## 📷 Output
 The system ensures seamless product synchronization between social media platforms and e-commerce stores, enhancing online sales and visibility.
